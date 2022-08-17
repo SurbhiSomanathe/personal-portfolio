@@ -58,13 +58,13 @@ export const NavBar = () => {
           </Container>
           {        
         <>
-            <a
+            {/* <a
                 href="https://docs.google.com/document/d/1BcYVCZgnRQQ4TensJQxrBc1rCOUguZhbXbDBVcsCjxc/edit"
                 target={"_blank"}
                 className="background-color: transparent">
                 <AiOutlineArrowDown className="text-white transform transition-transform ml-2" />
                 <span className="text-sm">MY RESUME</span>
-            </a>
+            </a> */}
         </>
     
 }
